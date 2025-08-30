@@ -18,11 +18,11 @@ This project implements a moving object detection system using OpenCV, a popular
 git clone <repository-url>
 cd <repository-directory>
 
-text
+
 2. Install required libraries:  
 pip install -r requirements.txt
 
-text
+
 3. Run the detection script:  
 python detect_moving_objects.py --input <path-to-video-or-camera-index>
 
